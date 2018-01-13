@@ -2,7 +2,6 @@ var WebTorrent = require('webtorrent')
 var fs = require('fs')
 const db = require('dropbox-stream');
 const TOKEN = '';
-//const FILETOUPLOAD = '/CargoJs/';
 
 var client = new WebTorrent()
 var torrentId = 'magnet:?xt=urn:btih:0d158ad5ece9f95cdbc13caa3c1be977b4b74832&dn=Justice.League.2017.1080p.KORSUB-JesusLovesYew%5BEtHD%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969'

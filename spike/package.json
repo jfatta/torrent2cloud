@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "dropbox-stream": "^2.0.0",
-    "googleapis": "^24.0.0",
     "webtorrent": "^0.98.20"
   }
 }
