@@ -1,0 +1,16 @@
+{
+  "name": "cargojs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "cargo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Fatta",
+  "license": "ISC",
+  "dependencies": {
+    "dropbox-stream": "^2.0.0",
+    "googleapis": "^24.0.0",
+    "webtorrent": "^0.98.20"
+  }
+}
